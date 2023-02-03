@@ -11,6 +11,8 @@
 !vm_*
 !mv_*
 !prac_*
+
 !_update*
+!.regelschirm_config_postinstall*
 
 autoexec_custom.cfg
