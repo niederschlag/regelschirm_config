@@ -1,0 +1,13 @@
+*
+!*/
+
+!.gitignore
+!README.md
+!LICENSE.md
+
+!autoexec*
+!ch_*
+!chc_*
+!vm_*
+!mv_*
+!prac_*
