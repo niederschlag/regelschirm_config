@@ -13,3 +13,6 @@ if (!(Test-Path "$PSScriptRoot\autoexec_custom.cfg")) {
         Add-Content -Path "autoexec_custom.cfg" -Value $_
     }
 }
+
+
+[System.Windows.MessageBox]::Show('Regelschirm Config 2.0 successfully installed!', 'Regelschirm Config Updater', 'OK', 'Information')
